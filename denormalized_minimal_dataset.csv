@@ -1,0 +1,101 @@
+Date,Type,Co-Morbidities,Symptom(s),Risk(s),Age,Vitals,Pos Tests,Neg Tests,temperature,rr,sats,ctab,days_since_symptom_onset
+2020-10-20,"SARS COV2 NAAT, Nasal",htn,"rhonchi, wheezes, cough, fatigue",high_risk_interactions,33,"84.0, 143.0, 87.0",,"covid19_test, rapid_strep",36.7,16.0,96.0,0,3.0
+2020-10-20,"SARS COV2 NAAT, Nasal",htn,"rhonchi, wheezes, cough, fatigue",high_risk_interactions,30,"84.0, 143.0, 87.0",,"covid19_test, rapid_strep",36.7,16.0,96.0,0,3.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",asthma,,high_risk_interactions,48,"74.0, 111.0, 74.0",,covid19_test,36.75,14.0,97.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",asthma,"runny_nose, sore_throat",high_risk_interactions,33,"68.0, 134.0, 87.0",,covid19_test,36.6,14.0,99.0,,3.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",cancer,,"high_risk_exposure_occupation, high_risk_interactions",70,"70.0, 150.0, 89.0",,covid19_test,36.5,13.0,96.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,,"high_risk_exposure_occupation, high_risk_interactions",56,"70.0, 135.0, 83.0",,covid19_test,36.5,,97.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"rhonchi, wheezes, diarrhea",high_risk_exposure_occupation,30,"65.0, 133.0, 88.0",,covid19_test,37.0,14.0,99.0,1,4.0
+2020-10-20,"SARS COV2 NAAT, Nasal",asthma,"cough, fatigue, sore_throat",high_risk_interactions,47,"91.0, 149.0, 103.0",,covid19_test,36.5,12.0,97.0,1,7.0
+2020-10-20,"Rapid COVID-19 PCR Test, Nasal",htn,,high_risk_interactions,40,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2 (COVID-19) by NAAT/RT-PCR/TMA, Unknown Risk, Nasal",asthma,,high_risk_interactions,22,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"rhonchi, wheezes, runny_nose","high_risk_exposure_occupation, high_risk_interactions",28,"75.0, 115.0, 75.0",,covid19_test,36.9,16.0,100.0,1,2.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",asthma,"fatigue, headache",high_risk_interactions,14,68.0,,covid19_test,36.75,,100.0,0,2.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal","asthma, smoker",,high_risk_interactions,41,"91.0, 130.0, 91.0",,covid19_test,37.4,14.0,99.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,,high_risk_interactions,64,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,runny_nose,high_risk_interactions,25,,,covid19_test,,,,,1.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,"high_risk_exposure_occupation, high_risk_interactions",28,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"cough, runny_nose, sore_throat",high_risk_exposure_occupation,24,"99.0, 126.0, 80.0",,covid19_test,36.5,16.0,97.0,0,2.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"wheezes, cough",high_risk_interactions,27,"70.0, 90.0, 58.0",,covid19_test,36.95,17.0,98.0,1,7.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,,high_risk_interactions,61,"69.0, 126.0, 78.0",,covid19_test,37.15,16.0,100.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal","asthma, smoker",,"high_risk_exposure_occupation, high_risk_interactions",23,"61.0, 121.0, 73.0",,covid19_test,36.75,12.0,96.0,,4.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",asthma,"cough, runny_nose",high_risk_interactions,75,"49.0, 175.0, 98.0",,covid19_test,36.75,15.0,97.0,0,5.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal","diabetes, smoker",,high_risk_interactions,65,"92.0, 160.0, 102.0",,covid19_test,36.95,16.0,98.0,,
+2020-10-20,"SARS-CoV-2 (COVID-19) by NAAT/RT-PCR/TMA, Unknown Risk, Oropharyngeal","htn, asthma",,high_risk_interactions,46,,,covid19_test,,,,,
+2020-10-20,"SARS COV2 NAAT, Nasopharyngeal",htn,,high_risk_interactions,73,"52.0, 170.0, 91.0",,covid19_test,36.85,15.0,99.0,1,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,"rhonchi, wheezes",high_risk_exposure_occupation,73,"71.0, 125.0, 83.0",,covid19_test,36.5,14.0,100.0,1,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,wheezes,"high_risk_exposure_occupation, high_risk_interactions",62,"62.0, 116.0, 72.0",,covid19_test,36.9,17.0,96.0,1,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,"high_risk_exposure_occupation, high_risk_interactions",23,"64.0, 144.0, 85.0",,covid19_test,36.65,16.0,98.0,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",asthma,diarrhea,high_risk_interactions,38,"90.0, 119.0, 84.0",,covid19_test,36.95,,98.0,0,2.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,,high_risk_interactions,53,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,runny_nose,high_risk_interactions,32,,,covid19_test,,,,,2.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",asthma,loss_of_smell,high_risk_interactions,27,"89.0, 102.0, 68.0",,covid19_test,36.95,14.0,98.0,,14.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",autoimmune_dis,runny_nose,high_risk_interactions,42,"93.0, 133.0, 84.0",,covid19_test,37.0,12.0,99.0,0,2.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",asthma,"cough, runny_nose",high_risk_interactions,7,"95.0, 112.0, 71.0",,covid19_test,37.3,14.0,99.0,0,1.0
+2020-10-20,"SARS COV2 NAAT, Nasal",asthma,"sob, fatigue",high_risk_interactions,44,"82.0, 147.0, 88.0",,covid19_test,36.4,,95.0,0,3.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,,high_risk_exposure_occupation,45,"80.0, 121.0, 80.0",,covid19_test,36.5,12.0,98.0,,7.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,high_risk_interactions,37,"97.0, 129.0, 76.0",,covid19_test,37.15,16.0,100.0,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,high_risk_exposure_occupation,24,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal","htn, asthma","wheezes, headache","high_risk_exposure_occupation, high_risk_interactions",65,"70.0, 143.0, 90.0",,covid19_test,36.65,16.0,96.0,1,4.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"rhonchi, wheezes",high_risk_interactions,31,"68.0, 127.0, 74.0",,covid19_test,36.8,14.0,97.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,high_risk_interactions,38,"85.0, 123.0, 77.0",,covid19_test,37.0,12.0,98.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",asthma,"diarrhea, fatigue, headache",high_risk_exposure_occupation,20,"62.0, 121.0, 79.0",,covid19_test,36.95,,99.0,0,1.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"rhonchi, wheezes, cough, fatigue, headache",high_risk_interactions,50,"68.0, 120.0, 76.0",,covid19_test,36.8,14.0,97.0,1,3.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",asthma,,high_risk_exposure_occupation,31,"50.0, 132.0, 85.0",,covid19_test,36.4,14.0,99.0,0,4.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,"high_risk_exposure_occupation, high_risk_interactions",25,"68.0, 115.0, 75.0",,covid19_test,36.8,16.0,98.0,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,,high_risk_interactions,44,"86.0, 158.0, 92.0",,covid19_test,36.9,12.0,100.0,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal","chd, htn","rhonchi, wheezes",high_risk_interactions,62,52.0,,covid19_test,36.45,12.0,99.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,high_risk_exposure_occupation,45,"85.0, 124.0, 71.0",,covid19_test,36.8,16.0,99.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,,high_risk_interactions,34,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,sore_throat,high_risk_exposure_occupation,24,"89.0, 130.0, 89.0",,covid19_test,,16.0,98.0,0,3.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"rhonchi, wheezes",high_risk_interactions,28,"83.0, 134.0, 81.0",,covid19_test,36.9,12.0,95.0,1,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,"rhonchi, wheezes, runny_nose",high_risk_interactions,75,"66.0, 150.0, 81.0",,covid19_test,36.9,16.0,100.0,1,1.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal","asthma, smoker","cough, fever, fatigue, headache, runny_nose, muscle_sore, sore_throat",high_risk_interactions,16,"100.0, 95.0, 63.0",,covid19_test,37.3,,100.0,0,2.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal","chd, htn","rhonchi, wheezes",high_risk_interactions,60,"68.0, 124.0, 76.0",,covid19_test,36.9,13.0,96.0,1,
+2020-10-20,"Rapid COVID-19 PCR Test, Nasal",htn,,high_risk_interactions,69,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,,high_risk_interactions,71,"76.0, 190.0, 80.0",,covid19_test,37.1,20.0,100.0,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",asthma,"sob, fatigue, headache, muscle_sore","high_risk_exposure_occupation, high_risk_interactions",40,"86.0, 133.0, 92.0",,covid19_test,37.0,12.0,98.0,0,5.0
+2020-10-20,"Rapid COVID-19 PCR Test, Nasal",htn,,high_risk_interactions,43,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,"headache, sore_throat",high_risk_interactions,31,"68.0, 135.0, 87.0",,covid19_test,36.35,,98.0,0,2.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,high_risk_interactions,36,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal","autoimmune_dis, smoker",,high_risk_interactions,45,"97.0, 112.0, 70.0",,covid19_test,36.8,16.0,99.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",chd,,high_risk_interactions,38,"74.0, 104.0, 68.0",,covid19_test,37.5,16.0,99.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal","htn, asthma",muscle_sore,"high_risk_exposure_occupation, high_risk_interactions",43,"79.0, 135.0, 90.0",,covid19_test,36.7,14.0,97.0,0,7.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,"rhonchi, wheezes",high_risk_interactions,63,"74.0, 133.0, 88.0",,covid19_test,36.6,14.0,96.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",diabetes,,high_risk_interactions,26,"75.0, 100.0, 69.0",,covid19_test,36.8,12.0,97.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"rhonchi, wheezes",high_risk_exposure_occupation,35,"90.0, 142.0, 97.0",,covid19_test,36.95,14.0,98.0,1,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,"high_risk_exposure_occupation, high_risk_interactions",29,"73.0, 143.0, 81.0",,covid19_test,37.1,16.0,96.0,,
+2020-10-20,"Rapid COVID-19 PCR Test, Nasal",htn,,high_risk_interactions,47,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,high_risk_exposure_occupation,47,"95.0, 116.0, 69.0",,covid19_test,36.65,16.0,99.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"fever, sob, diarrhea",high_risk_interactions,38,"86.0, 115.0, 79.0",,covid19_test,37.1,16.0,100.0,0,4.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"fatigue, headache, sore_throat",high_risk_interactions,28,,,covid19_test,,,,,3.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"fever, sore_throat",high_risk_exposure_occupation,36,"72.0, 155.0, 74.0",rapid_strep,covid19_test,37.15,16.0,98.0,0,1.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,"rhonchi, wheezes","high_risk_exposure_occupation, high_risk_interactions",31,"68.0, 136.0, 80.0",,covid19_test,36.9,16.0,99.0,1,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,cough,high_risk_interactions,27,,,covid19_test,,,,,1.0
+2020-10-20,"SARS-CoV-2, NAA, Nasopharyngeal",smoker,"sob, headache",high_risk_interactions,20,"52.0, 120.0, 78.0",,covid19_test,36.45,,98.0,0,5.0
+2020-10-20,"SARS COV2 NAAT, Nasopharyngeal",smoker,"rhonchi, wheezes",high_risk_interactions,47,"81.0, 131.0, 85.0",,covid19_test,37.2,14.0,100.0,1,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"rhonchi, wheezes, cough, diarrhea, fatigue, headache, runny_nose, muscle_sore, sore_throat",high_risk_interactions,27,"74.0, 148.0, 87.0",,covid19_test,36.85,12.0,100.0,1,5.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,"high_risk_exposure_occupation, high_risk_interactions",21,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2 (COVID-19) by NAAT/RT-PCR/TMA, Unknown Risk, Mid Turbinate",smoker,,"high_risk_exposure_occupation, high_risk_interactions",40,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,fatigue,high_risk_interactions,26,"83.0, 120.0, 79.0",,covid19_test,36.85,,97.0,0,2.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",cancer,"rhonchi, wheezes, sore_throat",high_risk_interactions,42,"62.0, 121.0, 77.0",,covid19_test,36.4,14.0,100.0,1,2.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal","chd, htn",,"high_risk_exposure_occupation, high_risk_interactions",59,"71.0, 130.0, 69.0",,covid19_test,36.7,16.0,98.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal","diabetes, htn",runny_nose,high_risk_exposure_occupation,60,"85.0, 124.0, 79.0",,covid19_test,37.0,,98.0,0,2.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,sob,high_risk_exposure_occupation,46,"55.0, 156.0, 73.0",,covid19_test,37.0,15.0,97.0,0,2.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal","chd, htn","rhonchi, wheezes",high_risk_interactions,64,"64.0, 130.0, 79.0",,covid19_test,36.5,14.0,97.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,high_risk_interactions,18,"60.0, 123.0, 82.0",,covid19_test,37.2,11.0,96.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,high_risk_interactions,43,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"rhonchi, wheezes",high_risk_exposure_occupation,22,"77.0, 128.0, 81.0",,covid19_test,36.8,12.0,96.0,1,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,,high_risk_interactions,55,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",htn,,high_risk_interactions,52,"72.0, 150.0, 90.0",,covid19_test,36.65,18.0,100.0,0,
+2020-10-20,"Rapid COVID-19 PCR Test, Nasal",smoker,,high_risk_interactions,28,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,wheezes,"high_risk_exposure_occupation, high_risk_interactions",36,"65.0, 126.0, 83.0",,covid19_test,36.95,16.0,100.0,1,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,high_risk_interactions,37,"80.0, 114.0, 74.0",,covid19_test,36.5,12.0,98.0,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"cough, headache, loss_of_smell",high_risk_interactions,40,"94.0, 118.0, 74.0",,covid19_test,36.7,,99.0,0,3.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,"cough, fever, fatigue, headache, muscle_sore, sore_throat",high_risk_interactions,31,"99.0, 60.0",,covid19_test,36.6,,98.0,0,5.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",smoker,,high_risk_interactions,39,,,covid19_test,,,,,
+2020-10-20,"SARS-CoV-2, NAA, Nasal",asthma,,high_risk_interactions,16,"83.0, 105.0, 73.0",,covid19_test,37.15,,99.0,0,
+2020-10-20,"SARS-CoV-2, NAA, Nasal","htn, asthma","runny_nose, sore_throat",high_risk_interactions,30,"74.0, 137.0, 89.0",,covid19_test,36.5,12.0,99.0,0,1.0
+2020-10-20,"SARS-CoV-2, NAA, Nasal",asthma,wheezes,high_risk_interactions,36,"73.0, 125.0, 83.0",,covid19_test,37.1,16.0,100.0,1,
+2020-10-20,"SARS-CoV-2 (COVID-19) by NAAT/RT-PCR/TMA, Unknown Risk, Mid Turbinate",smoker,fatigue,high_risk_interactions,25,,,covid19_test,,,,,60.0
+2020-10-20,"SARS-CoV-2 (COVID-19) by NAAT/RT-PCR/TMA, Unknown Risk, Oropharyngeal",asthma,,high_risk_interactions,49,,,covid19_test,,,,,
